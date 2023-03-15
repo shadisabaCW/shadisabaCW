@@ -1,0 +1,6 @@
+torch
+jax
+jaxlib
+transformers
+torch-xla
+numpy
